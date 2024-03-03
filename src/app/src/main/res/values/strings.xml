@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apollo Launcher</string>
+    <string name="image">App Icon</string>
+    <string name="action_settings">Settings</string>
+</resources>
